@@ -61,9 +61,16 @@ public
 # Mac files
 .DS_Store
 
+# Win files
+thumbs.db
+
 # Yarn
 yarn-error.log
 .pnp/
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+
+# VSCode
+*.code-workspace
+.vscode/
